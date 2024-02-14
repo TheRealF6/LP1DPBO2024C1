@@ -11,4 +11,4 @@ Saat pertama masuk ke dalam program, program akan menampilkan data anggota DPR d
 
 ### Dokumentasi
 ![Screenshot 1](https://github.com/TheRealF6/LP1DPBO2024C1/assets/119662753/18eaa052-5073-414e-a3ab-a30b4a4cf9af)
-![Screenshot 2](https://github.com/TheRealF6/LP1DPBO2024C1/assets/119662753/a4f65d73-2694-4739-8c76-e2ce3646d645)
+![Screenshot 2 - edited](https://github.com/TheRealF6/LP1DPBO2024C1/assets/119662753/7845fe83-9dc5-4263-a4fe-f5f60b217141)
